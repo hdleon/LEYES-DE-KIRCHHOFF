@@ -95,15 +95,19 @@
 
 3) Anotar los resultados de las mediciones en la tabla 1.1.
 
-
+![Literal_3](https://user-images.githubusercontent.com/116777118/200611664-eb891dfa-f2c3-497a-b487-4839d20a6c11.jpg)
 
 4) Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
 
 5) Anotar los resultados en la tabla 1.2.
 
+![Literal_5](https://user-images.githubusercontent.com/116777118/200611752-ed206760-dae3-409b-aa04-f3434e473bd3.jpg)
+
 6) Verificar si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. 
 
 7) Anotar los resultados en la tabla 1.3.
+
+![Literal_7](https://user-images.githubusercontent.com/116777118/200611815-c10b7597-a3ec-4f4c-87f4-316020cc1c17.jpg)
 
 8) Comparar los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
