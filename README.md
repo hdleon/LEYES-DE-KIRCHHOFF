@@ -14,8 +14,16 @@
 
 **3. MATERIAL O EQUIPO**
 - Fuente de Voltaje de C.D.: Dispositivo que a partir de la tensión de red pueden proporcionar una señal de tensión continúa para alimentar al circuito.
+
+![Fuente de voltaje CD](https://user-images.githubusercontent.com/116777118/200610198-49e5e059-10db-47ff-9b92-8e21d7123d80.jpg)
+
 - Multímetros Digitales: Es una herramienta que es usada para medir valores eléctricos, principalmente tensión (voltios), corriente (amperios) y resistencia (ohmios).
+
+![multimetro_1](https://user-images.githubusercontent.com/116777118/200610256-b8f56046-ae0f-413a-bc6d-7a1177bf85f2.jpg)
+
 - Resistores: Componente electrónico diseñado para introducir una resistencia eléctrica determinada entre dos puntos de un circuito eléctrico.
+
+![resistor-definicion](https://user-images.githubusercontent.com/116777118/200610303-42382bc1-df0a-4704-81b2-dfc5f281966c.jpg)
 
 *Resistor de 1 kΩ*
 
@@ -27,39 +35,67 @@
 
 - Protoboard: Es una placa de pruebas en los que se pueden insertar elementos electrónicos y cables con los que se arman circuitos sin la necesidad de soldar ninguno de los componentes
 
+![Protoboard-1660-puntos_2](https://user-images.githubusercontent.com/116777118/200610452-2bece4cf-407a-47af-a9b0-aeb50cbbc776.jpg)
+
 **4. PROCEDIMIENTO**
 
 1) Armar el circuito que se muestra en la figura 1.1 en Thinkercad.
+
+![_Thinkerkard](https://user-images.githubusercontent.com/116777118/200610520-211a1eb6-370d-48b9-a788-25ed3294894b.jpg)
 
 2) Medir el voltaje y corriente en cada uno de los elementos del circuito. 
 
 *Voltaje Total*
 
+![_Thinkerkard](https://user-images.githubusercontent.com/116777118/200610566-65bb5e34-4a8c-47f3-88f4-2aea1fa6213a.jpg)
+
 *Voltaje en R1*
+
+![Voltaje_Total](https://user-images.githubusercontent.com/116777118/200610631-58de2f2d-dcd8-4f62-8121-6b104a1e7da3.jpg)
 
 *Voltaje en R2*
 
+![Voltaje_R1](https://user-images.githubusercontent.com/116777118/200610687-cc44f8b9-183d-404a-a8d3-6351d2cf36a3.jpg)
+
 *Voltaje en R3*
+
+![Voltaje_R2](https://user-images.githubusercontent.com/116777118/200610728-2b38b60f-592a-4640-a47c-dd7ed4aaff64.jpg)
 
 *Voltaje en R4*
 
+![Voltaje_R4](https://user-images.githubusercontent.com/116777118/200610796-c70b47f9-38f0-4a09-bcf3-80ffe207f141.jpg)
+
 *Voltaje en R5*
+
+![Voltaje_R5](https://user-images.githubusercontent.com/116777118/200610846-72b7effd-0eef-4dbd-b645-638f14ebe16f.jpg)
 
 *Intensidad total*
  
-*Intensidad total*
+ ![Intensidad_Total](https://user-images.githubusercontent.com/116777118/200610887-4aad17ee-55b9-451c-8c8d-69353c73c44d.jpg)
 
 *Intensidad en R1*
 
+![Intensidad_R1](https://user-images.githubusercontent.com/116777118/200610966-6d0c16f3-a5df-47a6-b6e0-f0051170ef59.jpg)
+
 *Intensidad en R2*
+
+![Intensidad_R2](https://user-images.githubusercontent.com/116777118/200611061-cfb84631-3a61-4c76-8d1a-987f4568dc91.jpg)
 
 *Intensidad en R3*
 
+![Intensidad_R3](https://user-images.githubusercontent.com/116777118/200611096-d48e1f55-48a9-46e6-ac3f-cbfbcf1c7aba.jpg)
+
 *Intensidad en R4*
+
+![Intensidad_R4](https://user-images.githubusercontent.com/116777118/200611144-2ddadf5f-f456-403a-a9da-2e641d4642c9.jpg)
 
 *Intensidad en R5*
 
+![Intensidad_R5](https://user-images.githubusercontent.com/116777118/200611195-7ab08127-cea9-4d1c-8b42-06fa06531f14.jpg)
+
 3) Anotar los resultados de las mediciones en la tabla 1.1.
+
+
 
 4) Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
 
